@@ -1,3 +1,3 @@
 GPG Signing key setup test
 
-Test edit
+Test edit online
